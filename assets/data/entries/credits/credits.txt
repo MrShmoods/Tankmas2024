@@ -1,38 +1,31 @@
 **Tankmas 2024**
 
-*Co-Organizers*
-Squidly                 
-MrShmoods
-
-*Lead Programmer*     
-Squidly                 
-
-*Lead Artist*
-MrShmoods
-
-*Helper Elves*
-Tamag0
+*Art Team*
 GR1MP
-OnyxGalaria
+MrShmoods
 midgetsausage
-KingCrowned
-Ferstofus
+OnyxGalaria
+Tamag0
 
-*Additional Programmers*
-Jefvel
+
+*Programmer Team*
 EliteMasterEric
+jefvel
+squidly
 
-*Additional Art*
+
+*Additional Artists*
 Mimny
 donpeppi
 sebulant
 BingoWaders
 blakenator9872
+KingCrowned
 
-*Sticker Mod*
-OnyxGalaria
 
-*Present Artists*
+
+*Present Artist Spotlights*
+(In order of appearance)
 Cymbourine
 Sevi
 midgetsausage
@@ -66,6 +59,9 @@ rappinawful
 leroyalmess
 donpeppi
 KOLANI
+KingCrowned
+
+"Extra Presents"
 Smugarug
 YourWorstDirector
 wild0moon
@@ -87,48 +83,63 @@ nn-haste
 ATOXBCC
 Just-a-ng-dummy
 
-*Comic Artists*
-midgetsausage
-marbardan82
-guri-gure
-DRAGONMIRACLES
-theoscarlors
-
 *Music*
-StixDevs - christmas? oh yeah!
-RealTin3Sn - Christmas Joy
-everratic - The Wanderer
-TwistedFW - Dancing in the Snow
-Leavesz - Ode to Snow
-Irish-Soul - Holiday Melody
-Druoxtheshredder - Santa's Gone
-Jumbs - Hark the Angels
-Albe - Spiritus
-TeraVex - Another Tankmas Snowday
-TeffyD - Towards a New Year
-Droid - Snowflakes
-ConnorGrail - A Lot Like Christmas
-rappinawful - Endless Snowbag
-Starcat - Vericon
-Phonometrologist - Drift
+StixDevs----------christmas? oh yeah!
+RealTin3Sn--------Christmas Joy
+everratic---------The Wanderer
+TwistedFW---------Dancing in the Snow
+Leavesz-----------Ode to Snow
+Irish-Soul--------Holiday Melody
+Druoxtheshredder--Santa's Gone
+Jumbs-------------Hark the Angels
+Albe--------------Spiritus
+TeraVex-----------Another Tankmas Snowday
+TeffyD------------Towards a New Year
+Droid-------------Snowflakes
+ConnorGrail-------A Lot Like Christmas
+rappinawful-------Visual Snow Redux
+Starcat-----------Vericon
+Phonometrologist--Drift
+
+"Special 'Stocking Stuffer' Track"
+Jumbs, TeraVex, Connor Grail-----Christmas Eve
 
 *Minigames*
-Blawnode
-Jefvel
-Squidly
+Blawnode----------Tripple Triangle
+Jefvel------------Marshmallow Roasting
+Squidly-----------Find the Thing Thing
 
-*Premiers*
-RPGAnims            FulpWare Team
-midgetsausage       Sketch Collab 2024 Team
-Kolumbo             NGTV Christmas Marathon Team
-DannyGoodShirt      Dr. Good's Operating Theater Team
-Tankmas Animation Jam Entrants
 
-*Tankmas Chronicles*
+*Movie Premieres*
+DannyGoodShirt----Dr. Good's Operating Theater Christmas Special!
+midgetsausage-----Sketch Collab 2024
+Kolumbo-----------NGTV Christmas Marathon 2.0
+KingCrowned-------Tankmas Animation Jam 2024
+RPGAnims----------FulpWare GOLD
+
+
+*Comic Artists*
+DRAGONMIRACLES----Jared and Oliver Celebrate Christmas
+guri-gure---------Time's Up Santa
+marbardan82-------Shmigmar's Odyssey
+theoscarlors------Pico and Friends - Bringing Smiles to All Kids
+midgetsausage-----Cooper Bullet: File 4
+
+
+*Comic Collab: The Tankmas Chronicles*
+Organized by VoicesByCorey
+
+
+Written by:
 VoicesByCorey
-Squidly
-Tamag0
 MrShmoods
+
+
+Additional Typography
+Tamag0
+
+
+"Comic Page Artists"
 Smuggers
 Kenkoy
 Smugarug
@@ -152,10 +163,11 @@ Meliness
 Shwlft
 ceyptcur
 
-*Tankmas Cast*
+
+*CAST*
 Jiffrey
 The Concierge
-Lil' Jimby (@ GeistBeatz dot com)
+Lil' Jimby
 Javert
 Joan
 Gold Miser Jacquez
@@ -168,19 +180,18 @@ Mall Santa
 The Shape
 
 *Cameo Cast*
+(im order of appearance)
+Tankmas 2023 Tombstone
+Dr. Good
 Peanutbudder Santa
 Durooge
-Amogus
-Gacha Gal
-Awesome Snake
+The Purple Imposter
+Wild Tamago
 Captain Carrion
+Awesome Snake
 Pony Boy
-ConnorGrail in an apron
-Tankmas 2023 Tombstone
+ConnorGrail
 The Thomas Apparation
-Rare Tamago
-Common Tamago
-Dr Good
 Bitey
 Project 154
 Blade the Hedgehog
@@ -188,25 +199,27 @@ Blade the Hedgehog
 *Special Thanks*
 TomFulp
 PsychoGoldfish
-Johnny Jeff Utah
-TheDyingSun
-SplatterDash
+ninjamuffin99
 BrandyBuizel
 GeoKurelli
+SplatterDash
+TheDyingSun
 Dungeonation
 TurkeyOnAStick
-ninjamuffin99
 Gacha Panic Dev Team
 HaxeFlixel Community
 Haxe Community
-Chompy
-The Portel Management
-Tamago Conservation Society
-Dark Paco
+Le Portel Management
 
 ...and you!
 
-All events as portrayed in Tankmas 2024 are truthful and canon. All persons, living or dead, are real people with real feelings and you should feel bad if you made fun of them. Especially the box.
+
+
+
+
+
+
+All events as portrayed in Tankmas 2024 are truthful and canon.
 
 
 
@@ -218,9 +231,8 @@ All events as portrayed in Tankmas 2024 are truthful and canon. All persons, liv
 
 
 
-And now...
-Rest!
-"I'm gonna go fishing" - Squidly, 2025
+"Thank you all so much for playing." 
+                  -Tankmas Dev Team
 
 
 

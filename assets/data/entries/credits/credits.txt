@@ -1,11 +1,21 @@
 **Tankmas 2024**
 
 *Art Team*
+BingoWaders
 GR1MP
 MrShmoods
 midgetsausage
 OnyxGalaria
 Tamag0
+
+
+*Character Designers/*
+*Additional Artists*
+blakenator9872
+donpeppi
+KingCrowned
+Mimny
+sebulant
 
 
 *Programmer Team*
@@ -14,53 +24,43 @@ jefvel
 squidly
 
 
-*Additional Artists*
-Mimny
-donpeppi
-sebulant
-BingoWaders
-blakenator9872
-KingCrowned
-
-
 *Present Artist Spotlights*
 (In order of appearance)
-Cymbourine
-Sevi
-midgetsausage
-SirLenward
-TheExtreamH
-Bleak-Creep
-MKMaffo
-MatthewLopz
-BellvonArtsy
-Karlestonchew
-KonanSaurus
-EctoSludge
-travsaus
-dannydoods
-ThePsychoSheep
-OmegaKevin
-Mimny
-Pukebomb
-VIATHINE
-Oddlem
-MondoBilby
-Kinomoru
-MudHutGrug
-Slimygoo
-MANTIS
-KeithGarces
-Tamag0
-SrPelo
-EllieDoodles343
-rappinawful
-leroyalmess
-donpeppi
-KOLANI
-KingCrowned
+Day 1----Cymbourine
+Day 2----Sevi
+Day 3----midgetsausage
+Day 4----SirLenward
+Day 5----TheExtreamH
+Day 6----Bleak-Creep
+Day 7----MKMaffo
+Day 8----BellvonArtsy
+Day 9----Karlestonchew
+Day 10---KonanSaurus
+Day 11---EctoSludge
+Day 12---travsaus
+Day 13---dannydoods
+Day 14---OmegaKevin
+Day 15---Mimny
+Day 16---Pukebomb
+Day 17---VIATHINE
+Day 18---Oddlem
+Day 19---MondoBilby
+Day 20---Kinomoru
+Day 21---MudHutGrug
+Day 22---Slimygoo
+Day 23---MANTIS
+Day 24---KeithGarces
+Day 26---Tamag0
+Day 27---SrPelo
+Day 28---EllieDoodles343
+Day 28---rappinawful
+Day 29---leroyalmess
+Day 30---donpeppi
+Day 31---KOLANI
+Day 32---KingCrowned
 
 *Extra Presents*
+MatthewLopz (Little Candles Day)
 Smugarug
 YourWorstDirector
 wild0moon
@@ -111,9 +111,16 @@ Squidly-----------Find the Thing Thing
 
 *Movie Premieres*
 DannyGoodShirt----Dr. Good's Operating Theater Christmas Special!
+Dr. Good Poster---ThePsychoSheep
+
 midgetsausage-----Sketch Collab 2024
+
 Kolumbo-----------NGTV Christmas Marathon 2.0
+Poster by: PD-Cartoons
+
 KingCrowned-------Tankmas Animation Jam 2024
+Poster by: BonGuy
+
 RPGAnims----------FulpWare GOLD
 
 
@@ -133,6 +140,10 @@ Written by:
 VoicesByCorey
 MrShmoods
 
+Storyboards by:
+DRAGONMIRACLES
+dannydoods
+Smugarug
 
 Additional Typography
 Tamag0
@@ -168,32 +179,32 @@ Jiffrey
 The Concierge
 Lil' Jimby
 Javert
-Joan
+Pompous Joan
 Gold Miser Jacquez
 Backpacker Jill
 Mella
 Mallow
-The Persimmons of Philosophy
-Boxter the Boxing Day Box
 Mall Santa
+Persimmons of Philosophy
+Boxter the Boxing Day Box
 The Shape
 
 *Cameo Cast*
 (im order of appearance)
 Tankmas 2023 Tombstone
 Dr. Good
-Peanutbudder Santa
-Durooge
+The Thomas Apparation
+Bitey
+Blade the Hedgehog
 The Purple Imposter
 Wild Tamago
 Captain Carrion
 Awesome Snake
+Peanutbudder Santa
+Durooge
 Pony Boy
 ConnorGrail
-The Thomas Apparation
-Bitey
 Project 154
-Blade the Hedgehog
 
 *Special Thanks*
 TomFulp
@@ -203,6 +214,7 @@ BrandyBuizel
 GeoKurelli
 SplatterDash
 TheDyingSun
+KnoseDodge
 Dungeonation
 TurkeyOnAStick
 Gacha Panic Dev Team
